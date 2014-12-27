@@ -1,0 +1,8 @@
+Actions
+====================
+1) send_data - a function that takes given data, splits it up based on MAX_receive and adds headers to the packets, then sends them via send_buffer
+2) testing
+
+Thoughts
+===================
+1) sockaddr_in vs sockaddr
